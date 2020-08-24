@@ -7,7 +7,7 @@ namespace CountyOfSanDiego__part_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("this is my project ");
+            Console.WriteLine("this is my project That I like ");
 
         }
     }
